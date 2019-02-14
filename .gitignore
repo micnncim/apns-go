@@ -1,0 +1,4 @@
+vendor/
+*.p12
+.envrc
+config.toml
